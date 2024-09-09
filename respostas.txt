@@ -1,3 +1,6 @@
+As respostas e códigos das questões 1 à 3 estão na pasta scr/com/targetsistemas/etapatecnica
+
+Respostas das questões 3 à 5
 3. 77
 
 4.
@@ -9,4 +12,7 @@ d) 100
 e) 13
 f) 200
 
+
+5.
+Ligue o primeiro interruptor e espere alguns minutos. Depois, desligue-o e ligue o segundo interruptor. Vá até a sala das lâmpadas. A lâmpada que está apagada e quente corresponde ao primeiro interruptor, a lâmpada que está acesa ao segundo, e a lâmpada apagada e fria corresponde ao terceiro.
 
